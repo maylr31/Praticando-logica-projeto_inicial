@@ -6,8 +6,8 @@
 
     min-height: 100vh;
 
-    background: rgb(0, 0, 0);
-    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(1, 8, 14, 1) 25%, rgba(80, 94, 255, 0.85) 50%, rgba(1, 8, 14, 1) 75%, rgba(0, 0, 0, 1) 100%);
+    background: #1f071f;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 1) 0%, rgba(1, 8, 14, 1) 25%, rgba(116, 10, 236, 0.85) 50%, rgba(1, 8, 14, 1) 75%, rgba(0, 0, 0, 1) 100%);
     background-repeat: no-repeat;
     background-attachment: fixed;
 
